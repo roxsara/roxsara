@@ -1,16 +1,21 @@
-### Hi there 👋
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Roxana][website]
 
-<!--
-**roxsara/roxsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a BI & Python Developer and Data Enthusiast
 
-Here are some ideas to get you started:
+- I am currently studying Python, pandas, PowerBI, SQL and everything related to data and how it can help improve our lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roxsara&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Roxana's GitHub stats](https://github-readme-stats.vercel.app/api?username=roxsara&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[linkedin]: https://www.linkedin.com/in/roxsara/
+[website]: https://roxsara.github.io/
+
+---
+
+If you have similar interests, let's chat! ☕ 
