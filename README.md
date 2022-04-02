@@ -1,6 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Roxana][website]
 
-## I'm a BI & Python Developer and Data Enthusiast
+## I'm a Data & Python Enthusiast
 
 - I am currently studying Python, pandas, PowerBI, SQL and everything related to data and how it can help improve our lives.
 
