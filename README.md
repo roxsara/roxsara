@@ -1,8 +1,6 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Roxana][website]
 
-## I'm a BI Developer & Python Enthusiast
-
-- I am currently studying Python, PowerBI, SQL and everything related to data and how it can help improve our lives.
+## I'm a BI Developer & Data Enthusiast with experience in SQL (SQL Server), SSIS, SSMS, Python and Power BI.
 
 ---
 
