@@ -1,6 +1,6 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Roxana][website]
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Roxana
 
-## I'm a BI Developer & Data Enthusiast with experience in SQL (SQL Server), SSIS, SSMS, Python and Power BI.
+## I'm a Data Engineer and former BI Developer with experience in SQL, Azure, Python, and Power BI. I have worked on projects in the financial sector, including the stock market, and my focus is mostly on data modeling, data warehousing, ETL processes, and analytics. Always looking to learn more about anything data related.
 
 ---
 
