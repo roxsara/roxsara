@@ -1,7 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Roxana
 
-## I'm a Data Engineer with experience in SQL, SQL Server (SSIS, SSAS, SSRS), Azure, Python, and Power BI. Most of the projects I have worked on have been in the financial sector, and my focus is mostly on data modeling, data warehousing, ETL processes, and analytics. Always looking to learn more about anything data related.
-
+## I am a motivated and ambitious Data Engineer with a solid foundation in Data Warehousing, Data Modelling, ETL processes, and Business Intelligence and a year and a half of hands-on experience. Proficient in SQL, SSIS, SSAS, SSRS, and PowerBI and enthusiastic about everything data, I am always looking to learn more.
 ---
 
 ## My GitHub Stats 💻
